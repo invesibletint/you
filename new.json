@@ -1,0 +1,22 @@
+[
+    {
+        "colo": "Default",
+        "ip": "188.166.255.195",
+        "latency": 175,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 1600,
+        "time": "2024-10-19 18:14:29"
+    },
+   {
+        "colo": "SIN",
+        "ip": "188.166.255.195",
+        "latency": 171,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2024-10-19 18:15:25"
+    }
+]
